@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\SoftUni\Exam\Mining\bin\Debug\net8.0\Mining.exe
+C:\Users\User\Desktop\SoftUni\Exam\Mining\bin\Debug\net8.0\Mining.deps.json
+C:\Users\User\Desktop\SoftUni\Exam\Mining\bin\Debug\net8.0\Mining.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Exam\Mining\bin\Debug\net8.0\Mining.dll
+C:\Users\User\Desktop\SoftUni\Exam\Mining\bin\Debug\net8.0\Mining.pdb
+C:\Users\User\Desktop\SoftUni\Exam\Mining\obj\Debug\net8.0\Mining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SoftUni\Exam\Mining\obj\Debug\net8.0\Mining.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Exam\Mining\obj\Debug\net8.0\Mining.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Exam\Mining\obj\Debug\net8.0\Mining.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Exam\Mining\obj\Debug\net8.0\Mining.dll
+C:\Users\User\Desktop\SoftUni\Exam\Mining\obj\Debug\net8.0\refint\Mining.dll
+C:\Users\User\Desktop\SoftUni\Exam\Mining\obj\Debug\net8.0\Mining.pdb
+C:\Users\User\Desktop\SoftUni\Exam\Mining\obj\Debug\net8.0\Mining.genruntimeconfig.cache
+C:\Users\User\Desktop\SoftUni\Exam\Mining\obj\Debug\net8.0\ref\Mining.dll
